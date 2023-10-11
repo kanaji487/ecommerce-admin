@@ -8,3 +8,4 @@
 - Tailwind css
 - ShadCN/UI
 - Clerk
+- Zustand
