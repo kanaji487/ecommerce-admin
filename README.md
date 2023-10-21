@@ -18,3 +18,4 @@
 - Zustand
 - Axios
 - React-hot-toast
+- Cloudinary
